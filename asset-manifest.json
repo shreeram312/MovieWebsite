@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/desktop-tutorial/static/css/main.31d6cfe0.css",
-    "main.js": "/desktop-tutorial/static/js/main.f21b9b3c.js",
-    "index.html": "/desktop-tutorial/index.html",
-    "main.f21b9b3c.js.map": "/desktop-tutorial/static/js/main.f21b9b3c.js.map"
+    "main.css": "/MovieWebsite2/static/css/main.31d6cfe0.css",
+    "main.js": "/MovieWebsite2/static/js/main.f21b9b3c.js",
+    "index.html": "/MovieWebsite2/index.html",
+    "main.f21b9b3c.js.map": "/MovieWebsite2/static/js/main.f21b9b3c.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
